@@ -1,0 +1,6 @@
+{
+  "name": "Student Management System",
+  "description": "A comprehensive full-stack student management system featuring student/teacher CRUD, course enrollment, attendance tracking, and Gemini AI performance analysis reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
